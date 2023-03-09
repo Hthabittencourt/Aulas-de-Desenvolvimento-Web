@@ -20,9 +20,9 @@
         <h1 id="id_H1" style="color: rgba(155, 21, 115, 0.76);">Informações pessoais</h1>
             <ul>
                 <li><b>Nome:</b> Agatha Bittencourt</li>
-                <li><b>Endereço:</b> Rua Carlos Appel, nº 55 - Centro, Brusque/SC</li>
-                <li><b>Telefone:</b> +55 47 999485912</li>
-                <li><b>E-mail:</b> agatha.bittencourt@unifebe.edu.br</li>
+                <li><b>Endereço:</b> Rua Carlos Appel - Centro, Brusque/SC</li>
+                <li><b>Telefone:</b> +55 47 xxxxxxx </li>
+                <li><b>E-mail:</b> xxxxxxx </li>
             </ul>
 
             <br>
@@ -98,7 +98,7 @@
         <footer>
             <h1 style="color: rgba(155, 21, 115, 0.76);">Redes sociais </h1>
                 <p><b>
-                    <a href="https://www.instagram.com/agathabittencourt/" target="_blank">
+                    <a href="https://www.instagram.com/" target="_blank">
                     <button>Instagram</button>
                     </a></b>
                 </p>
