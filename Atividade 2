@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Agatha Bittencourt</title>
+    </head>
+    <bodY>
+        <nav>
+            <h1>Encontre a seção que procura</h1>
+            <a href="#id_H1">Informações pessoais</a> <br>
+            <a href="#id_H2">Formação Acadêmica</a> <br>
+            <a href="#id_H3">Experiência Profissional</a> <br>
+            <a href="#id_H4">Habilidades e competências</a> <br>
+        </nav>
+
+        <br><br><br>
+
+        <div>
+        <h1 id="id_H1" style="color: rgba(155, 21, 115, 0.76);">Informações pessoais</h1>
+            <p><b>Nome:</b> Agatha Bittencourt</p>
+            <p><b>Endereço:</b> Rua Carlos Appel - Centro, Brusque/SC</p>
+            <p><b>Telefone:</b> +55 47 999485912</p>
+            <p><b>E-mail:</b> agatha.bittencourt@unifebe.edu.br</p>
+
+            <br>
+
+        <h2 id="id_H2" style="color: rgba(155, 21, 115, 0.76);">Formação Acadêmica</h2>
+            <p><b>Colégio Cônsul Carlos Renaux -</b> 2007 a 2017</p>
+            <p>Ensino Médio Completo</p>
+            <p><b>Unifebe -</b> 2018 a 2022</p>
+            <p>Graduação Completa - Ciências Contabéis</p>
+            <p><b>Unifebe -</b> 2023 até o momento</p>
+            <p>Graduação em andamento - Sistemas da Informação</p>
+            
+            <br>
+
+        <h2 id="id_H3" style="color: rgba(155, 21, 115, 0.76);">Experiência Profissional</h2>
+            <p><b>Supervisão Serviços Contabéis -</b> 2019 até o momento</p> 
+            <p>Auxiliar de Departamento Pessoal</p>
+        
+            <br>
+
+        <h2 id="id_H4" style="color: rgba(155, 21, 115, 0.76);">Habilidades e competências</h2>
+            <p>Motivação</p> 
+            <p>Organização</p>
+            <p>Respeito aos prazos</p>
+            <p>Facilidade no aprendizado e adaptação em diferentes ambientes de atuação.</p>
+        </div>
+
+        <br><br><br>
+
+        <footer>
+            <h1>Redes sociais</h1>
+                <p><b>Instagram:</b> Agatha Bittencourt</p>
+                <p><b>Facebook:</b> Agatha Bittencourt</p>
+                <p><b>Linkedin:</b> Agatha Bittencourt</p>
+        </footer>
+    </bodY>
+</html>
